@@ -1,0 +1,25 @@
+{
+  "name": "fjeddy",
+  "version": "1.0.0",
+  "description": "fjeddy test",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skiv71/fjeddy.git"
+  },
+  "keywords": [
+    "Gay"
+  ],
+  "author": "Neil Duffy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skiv71/fjeddy/issues"
+  },
+  "homepage": "https://github.com/skiv71/fjeddy#readme"
+}
